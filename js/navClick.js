@@ -1,3 +1,5 @@
-$("#navMembers").on("click", function () {
-    $("article").load("/docs/members.html");
+$(function () {
+    $("#navMembers").on("click", function () {
+        $("#art").load("https://hknu-netsec.github.io/docs/members.html");
+    });
 });
