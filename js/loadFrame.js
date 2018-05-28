@@ -1,4 +1,4 @@
 $(function () {
-    $("#headerFrame").load("frame/header.html");
-    $("#footerFrame").load("frame/footer.html");
+    $("#headerFrame").load("https://hknu-netsec.github.io/frame/header.html");
+    $("#footerFrame").load("https://hknu-netsec.github.io/frame/footer.html");
 });
