@@ -24,8 +24,14 @@ article div h2 {
   font-size: 15px;
 }
 article div h3 {
-  font-weight: normal;
   font-family: 'Nanum+Gothic', sans-serif;
   font-size: 15px;
 }
-/*# sourceMappingURL=members.css.map */
+article div ul li {
+  list-style-type: none;
+  margin-left: 20px;
+  margin-bottom: 5px;
+  font-family: 'Nanum+Gothic', sans-serif;
+  font-size: 15px;
+}
+/*# sourceMappingURL=professor.css.map */
