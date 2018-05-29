@@ -36,6 +36,10 @@ nav ul li {
   font-size: 15px;
   color: white;
 }
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
 nav ul li:hover {
   background-color: #E96D27;
   cursor: pointer;

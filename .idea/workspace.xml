@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="056204b7-dadb-4495-890c-99847eb273ed" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/css/professor.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/members.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/members.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/members.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/members.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/members.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/members.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/frame/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/members.html" beforeDir="false" afterPath="$PROJECT_DIR$/members.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/professor.html" beforeDir="false" afterPath="$PROJECT_DIR$/professor.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="professor.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="professor.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/professor.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="761">
@@ -78,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            <state relative-caret-position="152">
+              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -130,13 +121,13 @@
         <option value="$PROJECT_DIR$/js/navLink.js" />
         <option value="$PROJECT_DIR$/frame/footer.html" />
         <option value="$PROJECT_DIR$/js/loadFrame.js" />
-        <option value="$PROJECT_DIR$/css/style.less" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/frame/header.html" />
         <option value="$PROJECT_DIR$/members.html" />
         <option value="$PROJECT_DIR$/css/members.less" />
         <option value="$PROJECT_DIR$/css/professor.less" />
         <option value="$PROJECT_DIR$/professor.html" />
+        <option value="$PROJECT_DIR$/css/style.less" />
       </list>
     </option>
   </component>
@@ -155,10 +146,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="139" />
+    <option name="y" value="-21" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -245,12 +237,12 @@
       <updated>1527053322514</updated>
       <workItem from="1527053324928" duration="1881000" />
       <workItem from="1527056027854" duration="6868000" />
-      <workItem from="1527308669572" duration="17527000" />
+      <workItem from="1527308669572" duration="17767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26276000" />
+    <option name="totallyTimeSpent" value="26516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -355,13 +347,6 @@
     <entry file="file://$PROJECT_DIR$/researches.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/loadFrame.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -415,6 +400,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="761">
           <caret line="69" column="46" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
         </state>
       </provider>
     </entry>
