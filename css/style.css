@@ -41,7 +41,6 @@ nav ul li a {
   color: white;
 }
 nav ul li:hover {
-  background-color: #E96D27;
   cursor: pointer;
 }
 footer {
