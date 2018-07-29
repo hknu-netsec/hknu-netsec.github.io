@@ -17,8 +17,7 @@ body .membercard {
   margin-left: 15px;
   padding: 15px;
   vertical-align: top;
-  background-color: #e96d27;
-  color: white;
+  border: solid 1px #333333;
 }
 body .membercard img {
   width: 150px;

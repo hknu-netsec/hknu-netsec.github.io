@@ -12,9 +12,7 @@ body #topbar {
 }
 body aside {
   display: inline-block;
-  background-color: #e96d27;
   width: 250px;
-  height: 600px;
   padding: 15px;
   vertical-align: top;
 }
@@ -25,11 +23,9 @@ body aside img {
 body aside h1 {
   margin-bottom: 20px;
   font-family: 'Josefin Sans', sans-serif;
-  color: white;
 }
 body aside ul li {
   font-family: 'Roboto', sans-serif;
-  color: white;
   list-style-type: none;
 }
 body article {
