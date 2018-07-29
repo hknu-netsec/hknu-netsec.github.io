@@ -1,37 +1,50 @@
-@font-face {
-  font-family: 'Nanum Gothic';
-  font-style: normal;
-  font-weight: 400;
-  src: local('NanumGothic'), url(https://fonts.gstatic.com/s/nanumgothic/v7/PN_3Rfi-oW3hYwmKDpxS7F_D-djb.ttf) format('truetype');
+body {
+  margin-top: 50px;
 }
-article div {
-  clear: both;
-  padding: 10px;
+body #topbar {
+  width: 100%;
+  height: 20px;
+  padding: 15px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 25px;
+  color: white;
+  background-color: #00365e;
 }
-article div img {
-  float: left;
-  margin-right: 10px;
-  border: black solid 1px;
-  width: 150px;
+body aside {
+  display: inline-block;
+  background-color: #e96d27;
+  width: 250px;
+  height: 600px;
+  padding: 15px;
+  vertical-align: top;
 }
-article div h1 {
-  font-family: 'Nanum+Gothic', sans-serif;
-  font-size: 20px;
-}
-article div h2 {
+body aside img {
+  width: 100%;
   margin-bottom: 10px;
-  font-family: 'Nanum+Gothic', sans-serif;
-  font-size: 15px;
 }
-article div h3 {
-  font-family: 'Nanum+Gothic', sans-serif;
-  font-size: 15px;
+body aside h1 {
+  margin-bottom: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
 }
-article div ul li {
+body aside ul li {
+  font-family: 'Roboto', sans-serif;
+  color: white;
   list-style-type: none;
-  margin-left: 20px;
-  margin-bottom: 5px;
-  font-family: 'Nanum+Gothic', sans-serif;
-  font-size: 15px;
+}
+body article {
+  display: inline-block;
+  padding: 15px;
+}
+body article h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  margin-bottom: 10px;
+}
+body article ul {
+  margin-bottom: 20px;
+}
+body article ul li {
+  font-family: 'Roboto', sans-serif;
+  list-style-type: none;
 }
 /*# sourceMappingURL=professor.css.map */

@@ -1,33 +1,52 @@
-@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
+@hknu_orange: #e96d27;
+@hknu_blue_dark: #00365e;
+@josefin_sans: 'Josefin Sans', sans-serif;
+@roboto: 'Roboto', sans-serif;
 
-@nanumGothic: 'Nanum+Gothic', sans-serif;
+body {
+  margin-top: 50px;
 
-article {
-  div {
-    clear: both;
-    padding: 10px;
+  #topbar {
+    width: 100%;
+    height: 20px;
+    padding: 15px;
+    font-family: @josefin_sans;
+    font-size: 25px;
+    color: white;
+    background-color: @hknu_blue_dark;
+  }
+
+  .membercard {
+    display: inline-block;
+    width: calc(33% - 55px);
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 15px;
+    vertical-align: top;
+    background-color: @hknu_orange;
+    color: white;
+
     img {
-      float: left;
-      margin-right: 10px;
-      border: black solid 1px;
       width: 150px;
+      float: left;
+      margin-right: 15px;
     }
 
     h1 {
-      font-family: @nanumGothic;
-      font-size: 20px;
+      font-family: @josefin_sans;
+      margin-bottom: 10px;
     }
 
     h2 {
-      margin-bottom: 10px;
-      font-family: @nanumGothic;
-      font-size: 15px;
+      font-family: @josefin_sans;
+      margin-bottom: 20px;
     }
 
-    h3 {
-      font-weight: normal;
-      font-family: @nanumGothic;
-      font-size: 15px;
+    ul {
+      li {
+        font-family: @roboto;
+        list-style-type: none;
+      }
     }
   }
 }

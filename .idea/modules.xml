@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hknu-netsec.github.io.iml" filepath="$PROJECT_DIR$/.idea/hknu-netsec.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HKNU-NetSec.iml" filepath="$PROJECT_DIR$/.idea/HKNU-NetSec.iml" />
     </modules>
   </component>
 </project>

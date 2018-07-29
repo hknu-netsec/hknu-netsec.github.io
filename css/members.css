@@ -1,31 +1,40 @@
-@font-face {
-  font-family: 'Nanum Gothic';
-  font-style: normal;
-  font-weight: 400;
-  src: local('NanumGothic'), url(https://fonts.gstatic.com/s/nanumgothic/v7/PN_3Rfi-oW3hYwmKDpxS7F_D-djb.ttf) format('truetype');
+body {
+  margin-top: 50px;
 }
-article div {
-  clear: both;
-  padding: 10px;
+body #topbar {
+  width: 100%;
+  height: 20px;
+  padding: 15px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 25px;
+  color: white;
+  background-color: #00365e;
 }
-article div img {
-  float: left;
-  margin-right: 10px;
-  border: black solid 1px;
+body .membercard {
+  display: inline-block;
+  width: calc(33% - 55px);
+  margin-top: 15px;
+  margin-left: 15px;
+  padding: 15px;
+  vertical-align: top;
+  background-color: #e96d27;
+  color: white;
+}
+body .membercard img {
   width: 150px;
+  float: left;
+  margin-right: 15px;
 }
-article div h1 {
-  font-family: 'Nanum+Gothic', sans-serif;
-  font-size: 20px;
-}
-article div h2 {
+body .membercard h1 {
+  font-family: 'Josefin Sans', sans-serif;
   margin-bottom: 10px;
-  font-family: 'Nanum+Gothic', sans-serif;
-  font-size: 15px;
 }
-article div h3 {
-  font-weight: normal;
-  font-family: 'Nanum+Gothic', sans-serif;
-  font-size: 15px;
+body .membercard h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  margin-bottom: 20px;
+}
+body .membercard ul li {
+  font-family: 'Roboto', sans-serif;
+  list-style-type: none;
 }
 /*# sourceMappingURL=members.css.map */

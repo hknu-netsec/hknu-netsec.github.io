@@ -1,16 +1,38 @@
-@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
+@josefin_sans: 'Josefin Sans', sans-serif;
+@roboto: 'Roboto', sans-serif;
 
-@nanumGothic: 'Nanum+Gothic', sans-serif;
-
-article {
-  img {
-    object-fit: cover;
+body {
+  margin-top: 50px;
+  #home_banner {
     width: 100%;
-    height: 400px;
   }
+  #hor3articles {
+    article {
+      display: inline-block;
+      padding: 20px;
+      width: calc(33% - 40px);
+      vertical-align: text-top;
 
-  h1 {
-    font-family: @nanumGothic;
-    font-size: 20px;
+      h2 {
+        font-family: @josefin_sans;
+        margin-bottom: 15px;
+      }
+
+      h3 {
+        font-family: @roboto;
+      }
+
+      p {
+        font-family: @roboto;
+        text-align: justify;
+      }
+
+      ul {
+        li {
+          font-family: @roboto;
+          list-style-type: none;
+        }
+      }
+    }
   }
 }
