@@ -1,31 +1,22 @@
 body {
   margin-top: 50px;
 }
-body #topbar {
-  width: 100%;
-  height: 20px;
-  padding: 15px;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 25px;
-  color: white;
-  background-color: #00365e;
-}
 body .paper_item {
   padding: 15px 250px;
   text-align: center;
 }
 body .paper_item h1 {
   margin-bottom: 10px;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   font-size: 20px;
 }
 body .paper_item h2 {
   margin-bottom: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Namum Gothic', sans-serif;
   font-size: 16px;
 }
 body .paper_item p {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Namum Gothic', sans-serif;
   font-size: 14px;
 }
 /*# sourceMappingURL=researches.css.map */

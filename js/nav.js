@@ -1,5 +1,5 @@
 $(window).on("load", function () {
-    let navs = ["home", "professor", "members", "researches"];
+    let navs = ["about" ,"home", "professor", "students", "publications", 'projects', "events"];
 
     $("#main_frame").load("docs/home.html");
 

@@ -11,18 +11,25 @@ body #hor3articles article {
   vertical-align: text-top;
 }
 body #hor3articles article h2 {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   margin-bottom: 15px;
 }
 body #hor3articles article h3 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Namum Gothic', sans-serif;
+}
+body #hor3articles article h4 {
+  font-family: 'Namum Gothic', sans-serif;
+}
+body #hor3articles article hr {
+  margin-bottom: 15px;
 }
 body #hor3articles article p {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Namum Gothic', sans-serif;
   text-align: justify;
+  margin-bottom: 20px;
 }
 body #hor3articles article ul li {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Namum Gothic', sans-serif;
   list-style-type: none;
 }
 /*# sourceMappingURL=home.css.map */

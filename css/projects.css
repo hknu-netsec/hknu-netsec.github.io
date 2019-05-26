@@ -1,0 +1,21 @@
+body {
+  margin-top: 50px;
+}
+#project_list h1 {
+  font-family: 'Namum Gothic', sans-serif;
+  font-size: 20px;
+  padding: 10px;
+}
+#project_list ul {
+  padding: 10px;
+}
+#project_list ul li {
+  padding: 10px;
+  font-family: 'Namum Gothic', sans-serif;
+  font-size: 18px;
+  list-style-type: none;
+}
+#project_list ul li img {
+  margin-right: 10px;
+}
+/*# sourceMappingURL=projects.css.map */

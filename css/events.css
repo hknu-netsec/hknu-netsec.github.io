@@ -1,0 +1,18 @@
+body {
+  margin-top: 50px;
+}
+#events_list {
+  padding: 10px;
+}
+.event_item {
+  padding: 10px;
+  font-family: 'Namum Gothic', sans-serif;
+}
+.event_item h1 {
+  font-size: 20px;
+}
+.event_item h2 {
+  font-size: 16px;
+  font-weight: 500;
+}
+/*# sourceMappingURL=events.css.map */

@@ -1,14 +1,10 @@
 body {
   margin-top: 50px;
 }
-body #topbar {
-  width: 100%;
-  height: 20px;
+body .student_type {
   padding: 15px;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 25px;
-  color: white;
-  background-color: #00365e;
+  font-family: 'Namum Gothic', sans-serif;
+  font-size: 20px;
 }
 body .membercard {
   display: inline-block;
@@ -25,15 +21,18 @@ body .membercard img {
   margin-right: 15px;
 }
 body .membercard h1 {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   margin-bottom: 10px;
+  font-size: 20px;
 }
 body .membercard h2 {
-  font-family: 'Josefin Sans', sans-serif;
-  margin-bottom: 20px;
+  font-family: 'Nanum Gothic', sans-serif;
+  margin-bottom: 15px;
+  font-size: 15px;
 }
 body .membercard ul li {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Namum Gothic', sans-serif;
   list-style-type: none;
+  font-size: 12px;
 }
-/*# sourceMappingURL=members.css.map */
+/*# sourceMappingURL=students.css.map */
