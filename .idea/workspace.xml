@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c76762f-be4c-47d5-9928-fb075d00e0aa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/publications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/home.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,11 +59,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/docs/home.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="463">
-                  <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+                <state relative-caret-position="178">
+                  <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
@@ -86,10 +86,10 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/docs/publications.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="558">
+                <state relative-caret-position="1470">
                   <caret line="88" column="15" selection-start-line="88" selection-start-column="15" selection-end-line="88" selection-end-column="15" />
                 </state>
               </provider>
@@ -252,12 +252,12 @@
         <option value="$PROJECT_DIR$/css/home.less" />
         <option value="$PROJECT_DIR$/docs/professor.html" />
         <option value="$PROJECT_DIR$/css/publications.less" />
-        <option value="$PROJECT_DIR$/docs/home.html" />
         <option value="$PROJECT_DIR$/js/showml.js" />
         <option value="$PROJECT_DIR$/docs/about.html" />
         <option value="$PROJECT_DIR$/css/about.less" />
         <option value="$PROJECT_DIR$/docs/students.html" />
         <option value="$PROJECT_DIR$/docs/publications.html" />
+        <option value="$PROJECT_DIR$/docs/home.html" />
       </list>
     </option>
   </component>
@@ -350,12 +350,12 @@
       <workItem from="1558770177346" duration="1939000" />
       <workItem from="1558804545625" duration="2687000" />
       <workItem from="1558817249529" duration="9113000" />
-      <workItem from="1558899390461" duration="4165000" />
+      <workItem from="1558899390461" duration="4768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32000000" />
+    <option name="totallyTimeSpent" value="32603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1542" height="1057" extended-state="0" />
@@ -546,13 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/projects.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -562,8 +555,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/publications.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
+        <state relative-caret-position="1470">
           <caret line="88" column="15" selection-start-line="88" selection-start-column="15" selection-end-line="88" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
