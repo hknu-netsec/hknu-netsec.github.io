@@ -28,8 +28,21 @@ body #hor3articles article p {
   text-align: justify;
   margin-bottom: 20px;
 }
+body #hor3articles article .showml {
+  width: 100%;
+  border: none;
+  background-color: transparent;
+  padding: 10px;
+}
+body #hor3articles article .showml:hover {
+  cursor: pointer;
+}
 body #hor3articles article ul li {
   font-family: 'Namum Gothic', sans-serif;
   list-style-type: none;
+}
+body #hor3articles article ul .bullet {
+  list-style-type: circle;
+  list-style-position: inside;
 }
 /*# sourceMappingURL=home.css.map */

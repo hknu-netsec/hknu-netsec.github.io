@@ -1,4 +1,25 @@
 body {
   margin-top: 50px;
 }
+body article {
+  padding: 20px;
+}
+body article img {
+  width: 400px;
+  margin-left: calc(50% - 200px);
+  margin-bottom: 30px;
+}
+body article h1 {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+body article p {
+  margin-left: calc(50% - 512px);
+  width: 1024px;
+  font-family: 'Namum Gothic', sans-serif;
+  margin-bottom: 20px;
+}
 /*# sourceMappingURL=about.css.map */

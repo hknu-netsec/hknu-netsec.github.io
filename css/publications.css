@@ -1,0 +1,20 @@
+body {
+  margin-top: 50px;
+}
+body #publication_list {
+  padding: 20px;
+}
+body #publication_list h1 {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+body #publication_list ol {
+  margin-bottom: 20px;
+}
+body #publication_list ol li {
+  margin-left: 20px;
+  padding: 10px;
+  list-style-position: inside;
+}
+/*# sourceMappingURL=publications.css.map */
